@@ -34,7 +34,9 @@ annotorious.plugins.selection.RectDragSelector.prototype.init = function(annotat
   /** @private **/
   this._HI_FILL = false;
 
-  /** @private **/
+  /** @privat
+  
+  111111e **/
   this._OUTLINE_WIDTH = 1;
 
   /** @private **/
